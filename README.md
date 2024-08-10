@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Olga-Miranda
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning python
-- 💞️ I’m looking for collaboration on projects, speak English, Russian, Finnish and Japanese
+- 🌱 I’m currently learning 
+- 💞️ I’m looking for collaboration on projects, speak English, Russian, Finnish 
 - 📫 How to reach me Skype: Olga-Miranda
 -  My hobbies :service_dog: :racehorse: :fish:
 <!---
